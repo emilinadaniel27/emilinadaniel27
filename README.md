@@ -5,7 +5,7 @@ I'm Daniel, a 20 year old full-stack (~and maybe lazy?~) developer working on im
 
 ## 🙌 What i can do:
 I am capable of developing Discord bots and am also able to develop basic dashboards for users to interact with.
-I know 5 programming languages to develop stuff with: `JavaScript`, `HTML`, `CSS`, `Node.js` and `SQL`
+I know 6 programming languages to develop with: `JavaScript`, `HTML`, `CSS`, `Node.js`, `SQL` and `C++`
 
 ## 🌱 What i am learning:
 I am currently self-learning on my knowledge and improving every day.
